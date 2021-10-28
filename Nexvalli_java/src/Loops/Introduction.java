@@ -11,6 +11,12 @@ public class Introduction {
 	/*
 	 * repeated execution of same block-iteration 
 	 */
+	/*
+	 * while
+	 * do..while
+	 * for
+	 * for-each
+	 */
 	public static void main(String[] args) {
 		int count=0;
 		while(count<5) {
